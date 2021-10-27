@@ -1,0 +1,325 @@
+Text,Emotion
+"""My bad!""",Anger
+"""My bad, uploaded the wrong patch.""",Anger
+"""It seems really confusing.""",Anger
+"""BTW: This is one reason why I hate this autoboxing shit since Java 5. I would love to have a way to prevent it in code (forbidden checks should detect this somehow). """,Anger
+"""Damn...""",Anger
+"""The defect  from hell 666, be scared..""",Anger
+"""That irritated the hell out of me too, but I didn't realise it was configurable in the .launch file.""",Anger
+"""Holy hell, I think I found one problem with turning a bignum into anything else.""",Anger
+"""This name gets confusing with all of our prenamed *Worker* and *Master* classes.""",Anger
+"""How on earth is it buggy?""",Anger
+"""That's weird.""",Anger
+"""It sucks to lose the code readability, but it seems like a reasonable price to pay.""",Anger
+"""Who made this stupid rule?""",Anger
+"""Doh!""",Anger
+"""I think you made mistakes in ivy.xml.""",Anger
+"""An output connector should also have a say in what URLs it will accept.""",Anger
+"""This was very bad documented.""",Anger
+"""Im stuck with IE6 unfortunately.""",Anger
+"""My bad.""",Anger
+"""I'd say to hell with windows minority :)""",Anger
+"""Stupid Maven""",Anger
+"""Then, to make matters worse, since the mid-1990's I've been offering pro bono advice to non-profit foundations whose members insult me regularly and assume I'm an amateur.  """,Anger
+"""This is weird.""",Anger
+"""@jira - I wish you didn't suck so much.""",Anger
+"""This way lies metadata hell.""",Anger
+"""Hudson is stuck.""",Anger
+"""I'm an idiot... there's nothing wrong with the readme.txt.""",Anger
+"""Damn time has flown...""",Anger
+"""Sounds weird to me... Could you package a (totally!)""",Anger
+"""I am currently trying to get it into AJDT dev builds but my git push is timing out (damn thing!""",Anger
+"""Kind of sucks.""",Anger
+"""Bad. """,Anger
+"""Ah, too bad.""",Anger
+"""Indeed that would be VERY bad design.""",Anger
+"""{quote} searcher.getAtomicReader().getSortedDocValues(uniqueKey); {quote}  This is a performance killer.""",Anger
+"""oh ...geez I'm an idiot.""",Anger
+"""I lost the whole morning cause HBase's RegionServer was dying with no logs, no nothing... how Am I supposed to debug the issue if u do not even generate a core dump?""",Anger
+"""This is not what I build a framework for.""",Anger
+"""Where on earth are you anyway?""",Anger
+"""My bad.""",Anger
+"""Weird.""",Anger
+"""Damn it !""",Anger
+"""*Damn*, I forgot.""",Anger
+"""Well, either you query the database every damn time, and your plugin/tool/code will be super slow.""",Anger
+"""Yep, my bad.""",Anger
+"""Oops, had a bad comparator in the TestCLI config.""",Anger
+"""My bad.""",Anger
+"""Maybe only one of us should play lawyer and the other one play engineer.""",Anger
+"""the recommendation in the wiki is bad.""",Anger
+"""My bad.""",Anger
+"""It must be lost somewhere.""",Anger
+"""What the hell, I'll give this a shot.""",Anger
+"""I'm against such heavy committing myself, without some consensus to do so.""",Anger
+"""I'm starting to think of ""DLL Hell.""""",Anger
+"""Will still be stuck in the loop though if can't actually close regions.""",Anger
+"""If they do then Suse's cpio works for old ascii but the -c switch is broken.""",Anger
+"""What the hell?!""",Anger
+"""I just noticed your public tweet...  bq. ""@wilhelmbierbaum True. Fuck the Avro C API."" """,Anger
+"""Imo all this just doesn't make sense from a pure performance aspect.""",Anger
+"""Oh, my stupid:)""",Anger
+"""Hell or high water.""",Anger
+""" I think the comments here are a bad sign... I sent us down an unfortunate slippery slope  we are a search engine library!  don't put shit in the index directory! or we will delete your shit. dead simple.""",Anger
+"""That would suck.""",Anger
+""" if you want to make these optimizations, fix the APIs so its intuitive, otherwise, no way.""",Anger
+"""I didn't know we needed to retain backwards config capability across 3.x to 4.x  :-(  That sucks and it'll make old code stick around longer.""",Anger
+"""My bad...""",Anger
+"""tricky shit man! I think I found the issue!""",Anger
+"""Oopps, bad move !""",Anger
+"""I've looked at what can be done within the NSIS framework we use to build the Windows installer.""",Anger
+"""Damn...""",Anger
+"""(Do nothing): Are you serious about that?""",Anger
+"""Weird.""",Anger
+"""Wow, it's like Thrift is going out of their way to make life suck for us this month.""",Anger
+"""Bad memory.""",Anger
+"""Swear to god, I'm not a total idiot.""",Anger
+"""My bad.""",Anger
+"""And boy, hell broke loose ;)  So... the biggest issue I'm facing is indeed with Random sharing across threads.""",Anger
+"""I abbreviated the heck out of my arguments and thinking, but damn it thats what I think :)""",Anger
+"""Django is a fullstack framework, Click is not.""",Anger
+"""As far as the query shit, i have no idea if solrdispatchfilter or whatever could/should do Thread.currentThread().setName(x) or whatever (and maybe restore after)""",Anger
+"""Inserting timestamps automagically would be bad because it would limit a whole swath of use cases.""",Anger
+"""> We can't let fear of back-compat prevent us from making progress.""",Anger
+"""This is clearly bad webserver behaviour.""",Anger
+"""This whole thing is very distressing to me.""",Anger
+"""This was a very bad bug, introduced by me being an idiot.""",Anger
+"""Damn !""",Anger
+"""Just to clarify... you made the DTPE handle exceptions the same way as CassandraDaemon by updating it to use NBHS instead of CSLS...   Did you just tell me to go fuck myself?""",Anger
+"""It also happens at the very startup after he has loaded only 3 sstables (hence DataTracker likely have 3 sstables, not a shit load).""",Anger
+"""The state stuck at ""Allocated state"", It is a dup of 3788.""",Anger
+"""It may suck, but at least *I* won't be the one bringing in a dumb dependency to a logging library.""",Anger
+""" I used to be the latter, but then I went to law school and got a degree in this shit. """,Anger
+"""My bad.""",Anger
+"""I doubt that Squid is so bad at it.""",Anger
+"""Pretty much everything that FSNamesystem (ie.""",Anger
+"""#NAME?""",Anger
+"""Credit, of course, goes to Dick.""",Anger
+"""The evil NPE strik back !!""",Anger
+"""Hell, this is gonna take me a lot of work to raise.""",Anger
+"""Also, your username was stupidly named and confusing, so I deleted it and created a new one more appropriate.""",Anger
+"""@Oleg, please accept that my ""logical"" is different from your ""logical"".""",Anger
+"""This really sucks!""",Anger
+"""I'll just put fix in under this issue.""",Anger
+"""What a stupid name I chose for that object... )-:""",Anger
+"""+1 (damn intellij, it's not like patch format hasn't been standard for years)""",Anger
+"""Oh fuck :-) Sorry. Not my day, more beer needed!""",Anger
+"""Here is quite bad.""",Anger
+"""Holy complicated-as-shit-algorithm, Batman!  The complexity of our implementation vs the complexity of what we're actually doing is starting to worry me here.""",Anger
+"""ah - my bad.""",Anger
+"""A stupid bug in a patch that is already applied.""",Anger
+"""Tabs are evil.""",Anger
+"""This is always a really bad way to design software.""",Anger
+"""Hell, UnaryFunction might even be faster than all of these calls in a row. """,Anger
+"""But please don't say that my reasoning is bad - because it is not.""",Anger
+"""Heh, that's one hell of a bug, 275 bytes exactly, eh?""",Anger
+"""But, even if it wasn't it would be totally worthless where it is at.""",Anger
+"""Damn dyslexia!""",Anger
+"""This sucks *so much*...""",Anger
+"""I have stupidly deleted the original test dir, but judging from the suite's output files, no output was created after 3 1/2 hours.""",Anger
+"""Well, that sucks.""",Anger
+"""Doing it at the hackathon you'd have a few fellas at your shoulder to give you pointers should you get stuck.""",Anger
+"""Juhani..my bad, i was mistaken.""",Anger
+"""-1 to jar hell.""",Anger
+"""And debugging is hell, because the test environment needs to have the exact same loader setup.""",Anger
+"""Pull it back in if you think different.""",Anger
+"""This is bad.""",Anger
+"""The eclipse ui was completly stuck, which was similiar to the other experinces.""",Anger
+"""I really don't care.""",Anger
+"""Both equally bad.""",Anger
+"""{quote}You are messing down deep below hbase in dfs.""",Anger
+"""It was a pretty stupid idea to use a static array of instances for QuorumOpMonitor.""",Anger
+"""bq. this is solr's fault by having a getter that does some heavy duty xml shit.""",Anger
+"""It may cause conflicts, but if your intent is to break system security, you probably don't care.""",Anger
+"""Actually I don't want to specify the encoding, because I don't care how the data is transported to me.""",Anger
+"""If the different segments are somewhat homogeneous then these stats should pretty much be very close anyway.""",Anger
+"""<gmcdonald> , my bad """,Anger
+"""Damn, Chuck is scary.""",Anger
+"""that's bad Content-Type from gSOAP.""",Anger
+"""Forget what I made(D8067).""",Anger
+"""Why the hell is this not a bug?""",Anger
+"""I'm an idiot.""",Anger
+"""The rest are *totally* unrelated.""",Anger
+"""But I will quit committing to Hama then, because I'm not going to support ONLY a binary format.""",Anger
+"""All I'm trying to say is that it's pretty easy to end up in propagation failure hell here or change something else that blows things up for use cases that are not foreseen.""",Anger
+"""Well, that sucks.""",Anger
+"""This sucks.""",Anger
+"""So, I'm fine with your logic, but given that I don't understand it please don't get upset when I ask questions on how I have to use it.""",Anger
+"""That is bad.""",Anger
+"""Seeking back is pretty inefficient in DFS.""",Anger
+"""Splitting an existing sub-shard gets stuck up.""",Anger
+"""if so, can you see if you can git bisect this bad boy?""",Anger
+"""why on earth would it match anything, you have not even touched the Apache install.""",Anger
+"""I don't have to ensure that the classloader knows groovy classes, *you* must do that.""",Anger
+"""Why on earth does createLink() need a request?""",Anger
+"""Of course, StrFieldSource is a private class  No it's not.""",Anger
+"""Shit, my bad. The posted patch is from a completely wrong branch of my git repo - I had not realized I ran the test-patch against a branch not branch-1.""",Anger
+"""My bad, had a typo in the subscription e-mail.""",Anger
+"""Pull it back in if you think different.""",Anger
+"""durrrh, that sucks.""",Anger
+"""Fix bad patch""",Anger
+"""I think it's time to just close this issue.""",Anger
+"""That's pretty unlikely.""",Anger
+""" We should not invoke the global synced fieldnumbers shit for every element, only when the setting actually changes""",Anger
+"""Doh!""",Anger
+"""That's my bad.""",Anger
+"""Not only it's the first one in my life I'm seeing multiple ways of closing the same thing, it also conceals programming errors.""",Anger
+"""Negative, I am against fetch groups in principle.""",Anger
+"""who the fuck is asking for scores, but not the max score, and why does their insanely specialized use case justify all these booleans on a central lucene class. """,Anger
+"""You may want to carefully examine your assumption about this.""",Anger
+"""which is silly -- bad package encapsulation).""",Anger
+"""> I hated that aspect of working for commercial companies.""",Anger
+"""I'm confused.""",Anger
+"""I'm confused.""",Anger
+"""I wholeheartedly agree this API is confusing as hell.""",Anger
+"""Bad IE.""",Anger
+"""I am planning to use this framework for some new RPCs I am adding.""",Anger
+"""Blooper after blooper - I hate SVN.""",Anger
+"""Filling diags.log is bad mojo, since it's never rotated.""",Anger
+"""What the hell are you waiting for ?""",Anger
+"""+1 for this: my bad.""",Anger
+"""Ok here is a patch that works. I was stupid enough not to see it...""",Anger
+"""umm ... call me crazy, but why are we making this public?""",Anger
+"""Not pretty. """,Anger
+"""Crap, forgot to verify that this is inconsistant with MRI, it's not.""",Anger
+"""Too bad we can't use position:fixed in IE6.""",Anger
+"""Shit, there is an dependency. Please go to Preferences -> LDAP -> Entry Editor and enable the option ""Show operational attributes"".""",Anger
+"""Turning off hints is basically intended as a ""oh shit, something is broken with hints, let's turn it off"" switch.""",Anger
+"""Don't hate me, just throwing this out there.""",Anger
+"""Igor is an idiot, and we *do* need gmake.""",Anger
+"""Damn it.""",Anger
+"""CSS is really confusing sometimes.""",Anger
+"""Am I doing something stupid here?""",Anger
+"""I didn't do that because that seems bad in hive, so I returned ""null"" from the operation.""",Anger
+"""If I get a chance I may even roll it into our dev environment but I am currently in the middle of mem leak hell.""",Anger
+"""It seems some of the wrappers in ink_hrtime.h() might no longer be used either, e.g. ink_gettimeofday() is never used, so lets get rid of that shit.""",Anger
+"""Damn.""",Anger
+"""Gav...(Hoping I'm not teaching you how to suck eggs :) )""",Anger
+"""Pull it back in if you think different.""",Anger
+"""If that would be the case, this would be bad design.""",Anger
+"""Damn it, sry lost the orientation.""",Anger
+"""I disagree... and I guess I'm willing to go to bat for this.""",Anger
+"""I think the correct resolution is to ensure that the prefix stack mechanism  gets reset each time the XMLReader is used.""",Anger
+"""Since this patch is so damn large already I won't be making anymore changes to this other than critical/blocker bug fixes.""",Anger
+"""This looks reasonable to me... sucks we have to special case handling of "" ""...""",Anger
+"""I think we all know it just sucks.""",Anger
+"""My bad.""",Anger
+"""But now that I think about it, it may crap out when coming back to read even on a recovered file.""",Anger
+"""I always get the same stupid error.""",Anger
+"""This is where it gets confusing.""",Anger
+"""My bad.""",Anger
+"""Damn, I would close this out from the fix to JBSEAM-3742, except the quartz and seampay examples use a custom XML namespace and the XML schema validator is not happy with that.""",Anger
+"""My bad.""",Anger
+"""This whole thing is really pretty trivial.""",Anger
+"""Well, damn.""",Anger
+"""I don't care what we do as long as we don't change the attributes in JSP significantly.""",Anger
+"""When you install a node module globally it goes into /usr/local where you don't have permissions to move shit into unless you sudo.""",Anger
+"""Weird.""",Anger
+"""I suspect it has nothing to do with the file system connector or Infinispan connectors, and is simply a (stupid) mistake in the federated join processor.""",Anger
+"""Pull it back in if you think different.""",Anger
+"""* Replaced TreeMap with an Array of final 'Segment' objects ** (now very slightly faster than trunk) * Rebased for trunk * Removed the patch renaming SSTableReaderTest to SegmentedFileTest  I didn't remove the builder pattern, because the alternative seems pretty ugly (copying the segments array for every append).""",Anger
+"""(How bad is this?""",Anger
+"""Because, we don't care for this in cases where we there is no node that is down.""",Anger
+"""I am an idiot - this was a dupe of GUVNOR-84""",Anger
+"""How bad is it?""",Anger
+"""I looked at our distributed pom.xml and they're pretty obscure.""",Anger
+"""Ie, both at are bad.""",Anger
+"""Weird.""",Anger
+"""guys... this is so stupid...""",Anger
+"""That sucks, why isn't the escape mechanism working?""",Anger
+"""Sucks to rush a commit when an issue is under discussion.""",Anger
+""" that's some freaky shit ...""",Anger
+""" The samples you gave are different.""",Anger
+"""PreCommit-HDFS-Build is stuck.""",Anger
+"""This is pretty embarassing!""",Anger
+"""Aaarrggh, how stupid of mine  to have a System.out, again!""",Anger
+"""If I can give you one advice on this one, I'd say this: fuck Derby, use H2 instead as the default embedded database.""",Anger
+"""You are messing down deep below hbase in dfs.""",Anger
+"""Ah, that was my bad.""",Anger
+"""That sounds like some serious buck passing.""",Anger
+"""My bad.""",Anger
+"""I sure as hell don't want to start attaching models for the sake of detaching them directly afterwards.""",Anger
+"""Sun RI sucks, why the hell is saveState() and restoreState() not called with with javax.faces.STATE_SAVING_METHOD = server???""",Anger
+"""I'm a pretty strong -0 on this.""",Anger
+"""No, it's not off the table, but it's moot unless we decide we want cqlsh in-tree at all.""",Anger
+"""Not too bad though, since clearing out commitlog segments is easily done.""",Anger
+"""The food is very bad.""",Anger
+"""Does this suck?""",Anger
+"""Original edited patch was messed up... stupid sed!""",Anger
+"""That being said, I'm not totally opposed to making the limit configurable.""",Anger
+"""Please close as this is just me being stupid.""",Anger
+"""Doh.""",Anger
+"""Why the hell do they deliver Duration, if they cannot instantiate it :-/""",Anger
+"""This is pretty trivial, just adds three asserts to TestPath#testNormalize.""",Anger
+"""If so, a test that succeeds with errors is confusing as hell...""",Anger
+""" (In this particular case, Hoss clearly intended to use the no-no word as an intensifier, and not to stir shit.)""",Anger
+"""HOLY SHIT!""",Anger
+"""@idiot Yeah, I was on that idiot-path for a good while but commons-lang is a hairball, at least where this hashcode making and equals is concerned.""",Anger
+"""it's my bad.""",Anger
+"""My bad, this is already done.""",Anger
+"""I don't care if everything is pretty or not, but we should at least support basic admin functionality in IE IMO (though I have not used it for years for just about anything).""",Anger
+"""i suck.""",Anger
+"""HADOOP-2949:  - If tarball is specified, HOD no longer validates for the pkgs directory in gridservice-hdfs or mapred sections as these are not going to be used anyway.""",Anger
+"""Ok. Stupid user Error here.""",Anger
+"""damn this was assigned to you since months.""",Anger
+"""Hudson seems to be stuck on this. """,Anger
+"""Someone, but I'm not sure who, owes me a public apology here.  /Larry  """,Anger
+"""Hmm, that sucks.""",Anger
+"""Pull it back in if you think different.""",Anger
+"""Please forget last comment, it is incorrect.""",Anger
+"""My bad.""",Anger
+"""I don't know how the hell my diff program decided to add seemingly random CR chars, but I've removed them now.""",Anger
+"""This is pretty trivial.""",Anger
+"""My bad, I screwed up the assertion -> RuntimeException transition.""",Anger
+"""[~cmccabe]: oh, hell no!""",Anger
+"""And I think if we're going to do a sweep up of shit, we should just kill root.""",Anger
+"""fuck u""",Anger
+"""though I disagree with a signficant amount of statements you made,I don't think we would ever come to agreement anyway.""",Anger
+"""Ok, wow, welcome to Linux hell...""",Anger
+"""This was my bad.""",Anger
+"""Sorry but this is just stupid.""",Anger
+"""That's weird.""",Anger
+"""Shit, I missed a cast.""",Anger
+"""Hmm ... this is quite bad.""",Anger
+"""The Async API in http client 4.x really sucks.""",Anger
+"""who the hell starts using our jira for typing lessons ?!?""",Anger
+"""Of course, it could...  :-)  DOH!""",Anger
+"""I'm not entering bogus reports for the hell of it ;)  Matt""",Anger
+"""My bad.""",Anger
+"""Finally closing this bug from hell.""",Anger
+""" Forget the patch for the moment.""",Anger
+"""My bad.""",Anger
+"""I'm an idiot.""",Anger
+"""@Matt... I'm an idiot, I used the wrong patch. Sigh.""",Anger
+"""I don't care about code duplication here.""",Anger
+"""Then you're pretty well screwed. """,Anger
+"""I don't want one-offs like this to become lost and forgotten.""",Anger
+"""once per every bad disk).""",Anger
+"""It really sucks that there is now way currently to include transitive dependencies.""",Anger
+"""This is a pretty awful bug.""",Anger
+"""A feature with wrong functionality is as bad as, if not worse than, a bad performance.""",Anger
+"""Ugh, well that sucks.""",Anger
+"""My Bad.""",Anger
+"""Pull it back in if you think different.""",Anger
+"""I just hate having no clue what a file is really depending on ;) """,Anger
+"""It's not too bad once CacheConfig is in.""",Anger
+"""* release of the framework.""",Anger
+"""Damn maven!""",Anger
+"""Damn, it seemed it didn't work.""",Anger
+"""My bad.""",Anger
+"""Sorry, I guess I'm against ""never computing this shit""... because you guys think returning NaN is ok. """,Anger
+"""Replaced patch with fix to catch more bad variables""",Anger
+"""This sucks badly.""",Anger
+"""Logger on top of Log4J and its abstract base class for supporting other frameworks.""",Anger
+"""In this case, data would pretty much just silently be lost.""",Anger
+"""This just seems really evil.""",Anger
+"""My bad.""",Anger
+"""So, it is stuck somewhere.""",Anger
+"""Ah, damn, I thought it was fixed :/  Guillaume ?""",Anger
+"""They don't vote, they whine that something (or everything) sucks.""",Anger
+"""This is bad.""",Anger
+"""Oh man ... it's a fucking precendence problem. """,Anger
+"""I'm however very interested in this feature as it is essential to me.""",Anger
+"""Stupid user error :)""",Anger
+"""For those of us who don't care about ivy in fact lose something - a easy to build hbase.""",Anger
+"""Bloody hell !!!""",Anger

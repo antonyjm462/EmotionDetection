@@ -1,0 +1,303 @@
+Text,Emotion
+"""Sorry for the noise.""",Sad
+"""For some reason, I couldn't upload the straight patch.""",Sad
+"""Incidentally if we all nag Joe Walnes enough we might be able to persuade him to release a new qdox which can ignore annotations etc (though it will still struggle with generics I think)""",Sad
+"""However, I figured it was better to get it in the public domain sooner and let the iterative process do it's work.""",Sad
+"""The responder seemed to be a bottleneck.""",Sad
+"""If you know of a way, please describe it.""",Sad
+"""I did it wrong this time.""",Sad
+"""Sorry for the confusion :)""",Sad
+"""Sorry for the noise.""",Sad
+"""Sorry for the misspelling ;)""",Sad
+"""Sorry - the federated build is still working out kinks...""",Sad
+"""Sorry.""",Sad
+"""Whoops, sorry.""",Sad
+"""I should have been very careful before doing this.""",Sad
+"""I meet the same problem on Eclipse recently but haven't figured out how to get through.""",Sad
+"""I really don't know how to solve this problem.""",Sad
+"""Forgot to add that I also tried this with and without HBASE-5864""",Sad
+"""This is a silly one.""",Sad
+"""Sorry for the delay.""",Sad
+"""Oh, I'm sorry, I was unclear.""",Sad
+"""Sorry, you're right.""",Sad
+"""Sorry, didn't look at the code until commit...  Can you test making it hash to a Long or a 8-byte ByteBuffer?""",Sad
+"""Sorry about the trouble.""",Sad
+"""Sorry to nag.""",Sad
+"""Sorry for the spam - but which test method - can't find any related to the SnapPuller on trunk.""",Sad
+"""Ah, sorry I misunderstood you.""",Sad
+"""Our caller may not notice what happend right now.""",Sad
+"""Sorry, I was trying to get to the wiki but it's been a busy week. """,Sad
+"""Sorry, it seems I forgot a few references to 2.0.2 in ./deps/cxf-all I'm attaching a new patch to fix these references.""",Sad
+"""Secondly reading this code I can see why this bug is happening, after completing stage 2 above when adding the new item the code does ""ordered - cancelled = quantity"" which equates to ""1 - 1 = 0"".""",Sad
+"""Ha sorry Varun, thanks for the reminder, I will have a look at it soon...""",Sad
+"""Sorry for the hassle.""",Sad
+"""Maurice I don't have such option or maybe I don't know where it is.""",Sad
+"""Sorry, missed that select-box.""",Sad
+"""Sorry that I think I missed some discussion in the mailing list.""",Sad
+"""Sorry, I kind of forget about this one.""",Sad
+"""Last try.""",Sad
+"""no, sorry - priorities have been shifted around...""",Sad
+"""sorry for misleading attachment name.""",Sad
+"""Sorry for the trouble.""",Sad
+"""sorry :)""",Sad
+"""Well it's me that didn't get the whole point, now i got more, sorry for the noise.""",Sad
+"""I will figure out the details and do the port later this week if you don't get to it first.""",Sad
+"""Sorry if this spam's things, however it's unlikely that I'll work on these.""",Sad
+"""sorry.""",Sad
+"""Oh, signed shift!""",Sad
+"""Here are 2 patches ... one for adjustExamplePaths.bat & .sh and the other a new file holding 2 User Libraries ... UIMA_LIB & UIMA_AS_LIB Not sure where this should go ...""",Sad
+"""I don't know what just happened.""",Sad
+"""It was attached to the wrong bug.""",Sad
+"""Sorry guys, I've been pretty busy @ work but I have been watching this.""",Sad
+"""Sorry I missed the ""overwrite"" keyword.""",Sad
+"""Sorry I've been MIA on this issue.""",Sad
+"""Sorry.""",Sad
+"""Sorry about the report.""",Sad
+"""Sorry, misunderstood the issue!""",Sad
+"""sorry old xml here is the used one:  <?xml version=""1.0"" encoding=""UTF-8""?> <root><value>?¤?¶?¼ und ??????""",Sad
+"""And with a network that tolerates almost everything to get a mail somehow in the right place, it is only seldom noticed (or when it is, it is blamed on Microsoft.""",Sad
+"""I am new to Mina and the whole environment.""",Sad
+"""Sorry if this spam's things, however it's unlikely that I'll work on these.""",Sad
+"""Hi Marco,  I changed the name of patch because it was made in Java earliar, sorry for inconvenience.""",Sad
+"""Sorry about that, fixed now.""",Sad
+"""App developers never do what they should :)""",Sad
+"""Sorry for the delay.""",Sad
+"""sorry about this.""",Sad
+"""This might be a bug indeed.""",Sad
+"""Hi Guillaume,  I did not have an answer right away, so I sent you question to Leonard Rosenthol.""",Sad
+"""sorry.. redeploy patch""",Sad
+"""Sorry, missed this.""",Sad
+"""sorry, unassigning myself from this backport.""",Sad
+"""Sorry ;-)  """,Sad
+"""I found the (sad) attempt at a script you asked about and uploaded it to MAPREDUCE-4282.""",Sad
+"""Brain fart.""",Sad
+"""Actually that's what this change did, sorry for the noise.""",Sad
+"""Sorry, here's the test that reproduces the issue.""",Sad
+"""Sorry about the error guys.""",Sad
+"""Sorry folks, the full fix was committed in rather a messy manner due to some platform specific issues.""",Sad
+"""Sorry, on holiday last week and just catching up.""",Sad
+"""This is only a problem with exceptions from java.""",Sad
+"""Sorry, patch is attached """,Sad
+"""Tests no longer sleep""",Sad
+"""Sorry, I had attached an older version... let's try this one.""",Sad
+"""Sorry, I took Martin's comment to mean the patch was committed and issue closed, which certainly discarded all the patches the first time around.""",Sad
+"""Sorry everyone.""",Sad
+"""Sorry about the confusion before""",Sad
+"""Sorry about that.""",Sad
+"""Oh, I didn't consider one flow like after the edit log conversion, immediately #store failed.""",Sad
+"""Sorry, that should be  FileChannel inputChannel = input.getChannel(); FileChannel outputChannel = output.getChannel();  in the try block. """,Sad
+"""It is a nasty bug that I've seen in real life, though.""",Sad
+"""Forgot about these, sorry.""",Sad
+"""Sorry for the trouble Vikram!""",Sad
+"""Ignore comment.  """,Sad
+"""Oh, ok.""",Sad
+"""Sorry for my poor review, didn't notice try/catch :(""",Sad
+"""I'm very busy for the moment so I didn't know when I 'd be able to the change myself, so if you can, your contribution would be one more time really appreciated.""",Sad
+"""Sorry about that.""",Sad
+"""Another backport (for a different jira) of mine is failing and I want to see if I can figure out what might be wrong there before doing a new backport.""",Sad
+"""I am not really sure what does the receive payment do before the shipment, it doesn't sound as if it is doing what we expect it to do.""",Sad
+"""sorry, should have been getDataModel not getDataTable.""",Sad
+"""i found the class - so there is no bug - sorry""",Sad
+"""Sorry again!""",Sad
+"""sorry.""",Sad
+"""Sorry guys""",Sad
+"""Didn't got the time to try it yet.""",Sad
+"""Sorry about that...""",Sad
+"""Sorry for that.""",Sad
+"""My error.""",Sad
+"""Sorry Gav DONE Committed @revision 2487.""",Sad
+"""Seems to be failing for a different reason now  testContainerLaunch(org.apache.hadoop.yarn.server.nodemanager.TestLinuxContainerExecutorWithMocks)  Time elapsed: 0.523 sec  <<< FAILURE!""",Sad
+"""Sorry for letting you guys wait.""",Sad
+"""if someone wants to work on this please go ahead, I still plan to, just no time yet.""",Sad
+"""You misunderstood the response: StopFilter indeed did not change.""",Sad
+"""Sorry, no longer working on this""",Sad
+"""Some file were missing in the last patch, sorry.""",Sad
+"""Sorry, I meant to have this patch in sooner but got quite busy, I expect to have it soon.""",Sad
+"""(I could not get what KEYWORD means.)""",Sad
+"""Resolving again....""",Sad
+"""Sorry about the noise, was trying out the precommit job.""",Sad
+"""@Luke, Sorry for the late, attaching latest version patch""",Sad
+"""This was my bad.""",Sad
+"""I was not aware of being required to call that method.""",Sad
+"""but app developers should always explicitly set it based on their application  My guess is that a large enough group of people take the defaults that it matters.""",Sad
+"""Sorry Chris,  I missed it, done !""",Sad
+"""Sorry ;-) +1 """,Sad
+"""Bug in existing testDelegationTokenRestoredOnRMrestart().""",Sad
+"""Git is tricky that way.""",Sad
+"""sorry.""",Sad
+"""Yes, sorry.""",Sad
+"""(sorry if that was confusing)""",Sad
+"""Sorry, should ask first.""",Sad
+"""Sorry, but look at mapSubtract and further down in the source you will find plenty.""",Sad
+"""Aside from the job succeeding (it doesn't), what effect should I be able to measure (in order to see if this is doing anything)?""",Sad
+"""Thanks so much, sorry that this isn't in the appropriate place.""",Sad
+"""sorry, this bug is *not* fixed.""",Sad
+"""Sorry to let you lose a wild goose chase.""",Sad
+"""sorry for your time.""",Sad
+"""I screwed up the encoding of the stopwords file (sorry).""",Sad
+"""Igor, sorry it took me so long to get back to this.""",Sad
+"""No sorry.""",Sad
+"""*sorry*""",Sad
+"""Sorry.""",Sad
+"""Sorry to have not spotted this one, and thanks for your care.""",Sad
+"""Sorry,I haven't tried you patch.""",Sad
+"""Sorry for the delay, was away.""",Sad
+"""problem - the bit to sign the source-release is being called when the source-release isn't being built because the source-release is only built at the ""executionroot"".  """,Sad
+"""On 2008-10-20 11:43:52.354 woflexair commented: Joan,  sorry for the noise in the bugbase but it's not a bug.""",Sad
+"""Mac, looks like the tests are failing (especially TestHarFileSystem).""",Sad
+"""Yes it is a dup, thanks Mike for taking care of this (I planned to do this yesterday but didn't make it)""",Sad
+"""Sigh, I don't like this overall if can't reuse everywhere.""",Sad
+"""Sorry , fixed.""",Sad
+"""Keep repeating this and the problem just gets worse. """,Sad
+"""Sorry, attached the file to the wrong issue.""",Sad
+"""HTML is quite uncomfortable to work with.""",Sad
+"""I must have looked at this before my morning coffee..""",Sad
+"""Sorry I missed some of this the first time.""",Sad
+"""Bugs like this make me sad.""",Sad
+"""Thanks to Mathias Werlitz - sorry for the delay.""",Sad
+"""I missed the context.""",Sad
+"""Ugh, sorry :(  Thanks!""",Sad
+"""Damn.""",Sad
+"""Thanks for the report, and sorry its taken so long to fix it.""",Sad
+"""Seems we didn't enforce an exec for sh, but we did for fs.""",Sad
+"""Sorry, my code base is a little old, looks like HADOOP-9147 add some new test in TestFileStatus. """,Sad
+"""Wow, that was some bad copy/paste work.""",Sad
+"""That is a bit too lax I think.""",Sad
+"""My bad, forgot to include the test file in the patch... Resubmitting in a second. """,Sad
+"""Sorry once again for the wrong report, Stephane""",Sad
+"""Phabricator is being a little buggy.""",Sad
+"""SnappyCodec check for Hadoop native lib is wrong.""",Sad
+"""Sorry, should have commented on this much sooner.""",Sad
+"""Qianshi is working on the SSL session reuse, but this buggy Bug system does not allow him assign this ticket, sigh""",Sad
+"""But it was not the only issue: we also want to manage priorities between the tasks, but we need to read them to get enough information to make the right priorities. """,Sad
+"""So, sorry I can't be more obliging.""",Sad
+""":) Sorry about that.""",Sad
+"""Sorry [~fiberlijun] - havent had a chance to look at it yet.""",Sad
+"""I opened [HADOOP-3607] to fix a wrong URL, but appart from that I don't there's still references to the old structure.""",Sad
+"""I was in too much of a hurry, sorry hold on a sec.""",Sad
+"""Any word on whether it will be fixed?""",Sad
+"""Sorry, this affects 0.9.3 version too.""",Sad
+"""Yes exactly -- sorry to be so unclear.""",Sad
+"""The patch went to the wrong bug.""",Sad
+"""Sorry, https://bugzilla.mozilla.org/show_bug.cgi?id=514760 is related but not same.""",Sad
+"""Tried some more stuff and realized I was doing it wrong.""",Sad
+"""Sorry for the delay, I'm recreating the mirror now.""",Sad
+"""No unit test, sorry (but there's not much deltaQuery coverage anyway).""",Sad
+"""Sorry typo:  ""our part"" in place of  ""one part"" above.""",Sad
+"""I'm not sure what the problem is, but the behavior (at least in 0.1.4) is that the _isClosed AtomicBoolean is not being set to closed in a timely manner.""",Sad
+"""I misunderstood the case and sorry for the confusion.""",Sad
+"""Sorry - I just didn't read the issues carefull enough.""",Sad
+"""sorry, last patch was missing new files""",Sad
+"""I don't have very much experience on branch-1, would you like to take a shot at the port?""",Sad
+"""Sorry I thought submit patch was the way to attach a patch.""",Sad
+"""Hey Vikram-- sorry about that, I haven't paid much attention to this issue.""",Sad
+"""Done, sorry for all the mess on a simple patch.""",Sad
+"""Sorry for a mess in uploaded files, my connection got broken during first upload.""",Sad
+"""Unless we switch to Antlr 3.0 ( and even though, I'm not sure this would fix the problem), there is nothing we can do.""",Sad
+"""Sorry for the wild goose chase!""",Sad
+"""Sorry - the above comes across as terse.""",Sad
+"""Sorry, in rushing to commit I forgot to add author during the commit.""",Sad
+"""Sorry, that should have said fixed via HADOOP-4980, not 6980.""",Sad
+"""So I also changed a test to test a non-ascii stopword :) """,Sad
+"""The guy on our team that was going to do this was swamped, so I re-assigned this to you.""",Sad
+"""Sorry.""",Sad
+"""Um sorry, i thought this ticket was about something else - patch attached, David would you give a try?""",Sad
+"""Sorry.""",Sad
+"""I'm sorry Mark,  I came back here to remove my comment as after building the app from scratch I have found that by default it used  WhenExhaustedAction = GROW and not BLOCK!""",Sad
+"""Excuse me for stolen assignement.""",Sad
+"""Sorry for the mistake.""",Sad
+"""Sorry, for all the issue mails, I forgot to mention the second:  2) There is commented source in the test, should it be enabled or removed?""",Sad
+"""Sorry, I forgot to change the priority of this one.""",Sad
+"""The biggest problem is that we've had too many committers over the years and we'd have to get all of their permission to change it.""",Sad
+"""Sorry, this should be YARN JIRA - filed YARN-350 instead""",Sad
+"""Sorry; I hit close by accident.""",Sad
+"""I did not have time to do it yesterday.""",Sad
+"""Sorry if this was not clear, and yes, by <blank> I meant an empty string.""",Sad
+"""You are going to kill me when I say this, but it seems like we should just commit your first patch.""",Sad
+"""Grumble, grumble...""",Sad
+"""In current version the same error cause different messages because there are many commiters.""",Sad
+"""(back from holidays, so a bit delayed, but) I confirm Andrzej's suggestion -- a plain-text only summarized is ideal for clustering for example.""",Sad
+"""Sorry, we are no longer using Xerces.""",Sad
+"""Sorry for the noise.""",Sad
+"""Sorry for that.""",Sad
+"""RMAppAttemptImpl.recoverAppAttemptTokens()  Looks like all changes in RMAppImpl are unnecessary.""",Sad
+"""I'm very sorry.""",Sad
+"""Sorry, I tought I could commit this patch but I did not realize that one of the files is in the framework (and I have not access to it). """,Sad
+"""My patch wouldn't compile.""",Sad
+"""Brandon, sorry.""",Sad
+"""The cause is that the call to SpecificResponder.writeError in Responder.respond ultimately calls GenericData.resolveUnion which in turn calls GenericData.getSchemaName before the line where the UnresolvedUnionException gets thrown.""",Sad
+"""Unfortunately, in these days where everyone that can put a CD the right way up in a drive is a Linux/Unix/Windows/Internet Expert, this has become pretty common.""",Sad
+"""First guess: something's getting confused about reversed-ness.""",Sad
+"""Sorry about that.""",Sad
+"""To upgrade to a recent version of Jackrabbit, see http://wiki.apache.org/jackrabbit/BackupAndMigration I'm afraid I can't say much about the risk.  """,Sad
+"""Sorry.""",Sad
+"""Sorry about that...  http://bit.ly/12UiaS""",Sad
+"""Seems to be a faulty mailserver setup at laguna-industries.com.""",Sad
+"""Sorry, grabbed the wrong ticket.""",Sad
+"""Sorry Avdhesh, I forgot to add these two files to the patch, here is the new patch containing the missing files""",Sad
+"""Yes, the patch is badly named - sorry!""",Sad
+"""If someone wants to take this over, that's cool - I'm unlikely to have time in the next week and a half, though.""",Sad
+"""I have a really bad habit of not reading thru all the bug comments before asking questions.""",Sad
+"""Missed 2 new files - sorry !""",Sad
+"""Especially I don't know very much about the test framework differences.""",Sad
+"""[~shazron]Sorry, that was weird.""",Sad
+"""One of the error is that hiddenActivations cannot be resolved.""",Sad
+"""The problems I was talking about are mostly fixed by [HADOOP-3575] and [HADOOP-3480].""",Sad
+"""Sorry about that.""",Sad
+"""yup sorry just fixed.""",Sad
+"""Here is addendum to fix (Sorry about build breakage)""",Sad
+"""Sorry for the super-slow uptake on this, the new job is using up all of my limited brain resources. """,Sad
+"""Sorry.""",Sad
+"""I have this issue, where my server and client is creating a lot of loopback threads, that I believe must be related to this issue.""",Sad
+"""sorry for delay""",Sad
+"""Sorry I'm wrong about #2.""",Sad
+"""It is not yet tested - I ran into strange build problems with APR. """,Sad
+"""I'm sorry.""",Sad
+"""Sorry, I see that you say the same, Mike :)""",Sad
+"""Sorry, yes I believe this has been resolved.""",Sad
+"""> then we don't save IO by limiting the buffer size to 1 KB  I'm confused by this.""",Sad
+"""The problem is that it builds awt, and that requires some dependencies.""",Sad
+"""I don't have resources to hand to test this at mo.""",Sad
+"""Completely missed issue 614..""",Sad
+"""Sorry [~svenkat], I just committed this.""",Sad
+"""Sorry for the noise..""",Sad
+"""I don't have strong opinions about it either way.""",Sad
+"""Sorry for being confusing.""",Sad
+"""This half-reuse is more confusing for new devs who see this code for the first time.""",Sad
+"""huh ... i thought i did resolve this.""",Sad
+"""Sorry for the huge delay Fabio.""",Sad
+"""Sorry for the noise.""",Sad
+"""Thanks Jukka for fixing this :) (sorry)""",Sad
+"""Sorry, Thiru, I hope you haven't already started working on this!""",Sad
+"""Not sure I want the transient inability to clean up some local log or other trivial task to kill a whole pig job?""",Sad
+"""I misread.""",Sad
+"""s/[~apurtell]/[~lhofhansl]/  Sorry guys.""",Sad
+"""I will try to do more research on it.""",Sad
+"""Aaron, sorry about this.""",Sad
+"""Sorry, probably a misunderstanding from my side....""",Sad
+"""Sorry.""",Sad
+"""Oh, sorry.""",Sad
+"""I haven't had any time to try re-upgrading after having to back out 2.0.8, but I will be sure to let you know how it works out as soon as I get the opportunity.""",Sad
+"""Sorry, db name is TPCDB, user name TPC, pwd whatever...""",Sad
+"""Sorry, I thought issue (and provided patch) were about cocoon-servlet-service-impl, used by either C2.2 and C3 but only now I see that instead they are related to cocoon-servlet-service-components (C2.2 only).""",Sad
+"""While creating the DerbyTest I did notice that this problem is caused by the Database pool because it tries to connect to the database in the background.""",Sad
+"""Please ignore attachment (id=6938).""",Sad
+"""Sorry for the missing class src/java/org/apache/jdo/tck/lifecycle/StateTransitionsReturnedObjects.java.""",Sad
+"""sorry....""",Sad
+"""I've tried something similar (I removed the handlers and kept the readers), but the performance was not visible.""",Sad
+"""Line 1664 (sorry, the 0.94 codeline)""",Sad
+"""Sorry  about that, tiredness.""",Sad
+"""Sorry Jacques, I'll upload another file.""",Sad
+"""Unable to reproduce issue.""",Sad
+"""The patch should be relatively trivial, but like I said, I have no idea if there is other important stuff going on there or not.""",Sad
+"""Hey, sorry I did not get back to you sooner.""",Sad
+"""It does not look very useful.""",Sad
+"""Sorry for the delay and thanks for the good work, works like a charm!""",Sad
+"""Sorry I didn't use your patch, but I think you'll like the end result.""",Sad
+"""Sorry.""",Sad
+"""WOW....you are right...I'm deeply sorry to bother you guys (and I'm also a bit embarrassed).""",Sad
+"""well sorry, i didn't upload the right files""",Sad
+"""You would need to implement session resume; thats a whole new can of worms.""",Sad
+"""I am checking out the dojo fixes and patching them in, sorry for the delay, it has been a long time """,Sad
+"""Sorry [~kumarr], let's just do this in 0.96.""",Sad
+"""Sorry guys... :( I was the reason for this trouble.""",Sad

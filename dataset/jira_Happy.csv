@@ -1,0 +1,125 @@
+Text,Emotion
+"""Awesome work: this is a great first cut! """,Happy
+"""Sounds like a good idea. """,Happy
+"""I've tested them out and everything is fine.""",Happy
+"""Nice feature, lars!!""",Happy
+"""Patch applied with thanks!""",Happy
+"""Cool. sounds good to me.""",Happy
+"""Looks quite perfect after solving PDFBOX-490.""",Happy
+"""Awesome! This tool is cool.""",Happy
+"""It is good to have the test.""",Happy
+"""This is awesome!""",Happy
+"""Looks pretty cool. Fresh and minimalist. Love it :-) Good work.""",Happy
+"""Thanks guys for saving mankind!""",Happy
+"""Cool.""",Happy
+""":)  I've renamed ComponentColorProperty to be ComponentColorElement and RelationshipAggregation to TwistieAggregation.""",Happy
+"""Many thanks for your help.""",Happy
+"""Awesome stuff Stephen! """,Happy
+"""Great! It's been good to be able to contribute and I hope to be able to more for this awesome project when I have the spare time.""",Happy
+"""Cool, that's all good news too! Thanks guys. One less on my radar.""",Happy
+"""Sounds good.""",Happy
+""" Automatic location selection is very cool.""",Happy
+"""Long Life MyFacesssssssssss!""",Happy
+""" I like the elegant parser!  """,Happy
+"""Code looks cool.""",Happy
+"""Thanks for fixing it so quickly!""",Happy
+"""I'm happy to use it as the standard logo (i.e. website, etc.).""",Happy
+"""Thanks Ashutosh and Gunther for your help!""",Happy
+"""Thanks, Jeff!""",Happy
+"""great. awesome job sergey!""",Happy
+"""Cool, looks good.""",Happy
+"""v2 Looks good to me.""",Happy
+"""This is Awesome Stefan - thanks a million!""",Happy
+"""Version 2.2.0RC3 is fine.""",Happy
+"""This is a great suggestion.""",Happy
+"""Thanks for the help BJ!""",Happy
+"""Jonathan: over to you :)""",Happy
+"""Thank you, Ivan!""",Happy
+"""Many thanks, Neeme.""",Happy
+"""Cool, will do!  Thanks for the review and good questions... and the whole idea! :)""",Happy
+"""Got it, thanks for the explanation.""",Happy
+"""Thanks Alexei, the patch is fine. """,Happy
+"""Sounds like a good idea.""",Happy
+"""Hi, very cool!""",Happy
+"""Thanks Ashish!""",Happy
+"""Hey, you're right, that idea was probably not the best approach to the problem - 0.6 looks really nice, looking forward to it :)""",Happy
+"""Awesome co-op. Thanks, Robert & Mike, for picking this up.""",Happy
+"""Thanks Koji!""",Happy
+"""Thanks for the reviews..""",Happy
+""":D""",Happy
+"""Thank you!""",Happy
+"""http://svn.apache.org/viewvc?view=rev&revision=468444  Deepal, Thanks!""",Happy
+"""Took me a few seconds to get it, but then I realized how awesome it is.  """,Happy
+"""Thanks for the patch Mubarak.""",Happy
+"""Is that ok for this file (b/c I have no idea how to do the svn move now ... after I've made all the changes already) :)""",Happy
+"""Patch looks good to me.""",Happy
+"""So very cool, and so very committed-- thanks Matthias, this is awesome.""",Happy
+"""Daryn, the current patch looks good.""",Happy
+"""Wow!""",Happy
+"""Cool feature!  Performance:  - It looks like scripts are read from the resource loader and parsed again (eval) for every update request.""",Happy
+"""cool, no worries.""",Happy
+"""I really appreciate your comments and I really enjoy our discussions:)""",Happy
+"""Very cool.""",Happy
+"""Looks good, thanks Laura!""",Happy
+"""This looks good to me.""",Happy
+"""cool man it looks good. we need a changes entry but from my side this looks good. we can tackle the todos on trunk""",Happy
+"""Interesting that you decided not to detect the error based on finding two similarly-named operations.""",Happy
+"""> - FOUserAgent.getStream() is cool and very easy to use (now that it's properly > documented).""",Happy
+"""Thanks, Daryn!""",Happy
+"""i kinda like the black acctually .. but that may largely be due to my prefering the ""fire"" solr logo over the futuristic magnifying glass (the red/orange contrasts nicely with the black/grey.  to my mind, the ""Solr"" ""Sun"" connection has allways been really cool ... """,Happy
+"""Cool cool - thanks stack!""",Happy
+"""Thanks once again.""",Happy
+"""Great work...this is awesome stuff. """,Happy
+"""Cool, thanks Daniel, we're actually cool with either updating it to e9ff8c4928 or flipping the write bit and we'll push the delta ourselves - whatever's the fastest to get to writeable:)  Thanks, --tim""",Happy
+"""Thanks to both of you, and to Deepesh for the initiative. """,Happy
+"""Cheers!""",Happy
+"""Applied patch with thanks to Scott.""",Happy
+"""Hi Carlos, This looks awesome! Lots of cool stuff.""",Happy
+"""Thank you, guys!""",Happy
+"""Great! Awesome!  thanks, Dims""",Happy
+"""Thanks!""",Happy
+"""Nice, I did not think about using the system tables.""",Happy
+"""Thanks Uwe!""",Happy
+"""Hi Suran,  The new catalogs_b.patch looks very good.""",Happy
+"""Thanks Bryan!""",Happy
+"""This is awesome - works in a one-liner. """,Happy
+"""I've just tested the shiro trunk with karaf-2.2 release and everything works fine :)""",Happy
+"""Ok cool, this is just a matter of adding strings to the various [NotFound()|https://github.com/apache/mesos/blob/0.15.0-rc4/src/files/files.cpp#L160] returns in files.cpp  There are a number of error cases in the [browse|https://github.com/apache/mesos/blob/0.15.0-rc4/src/files/files.cpp#L204] and [read|https://github.com/apache/mesos/blob/0.15.0-rc4/src/files/files.cpp#L204] endpoints, I'd imagine one could change the javascript to generate bad requests which should be sufficient to test this :)""",Happy
+"""Looks like this is fixed :)""",Happy
+"""thanks to Ernst Fastl for adding this.""",Happy
+"""Awesome speedup! Finally all this work shows great results!!""",Happy
+"""The patch looks good.""",Happy
+"""Thanks, Owen!""",Happy
+"""Thanks Ram,  That seems like a definite improvement.""",Happy
+"""great, thanks Joel.""",Happy
+"""Thanks!""",Happy
+"""Awesome discussion.""",Happy
+"""@Subbu: Glad I was able to help.""",Happy
+"""Interesting, I just replaced my src with the latest in the trunk and did a compleatly clean build and the problem seems to have gone away.""",Happy
+"""Thanks for moving so quickly on this guys.""",Happy
+"""thanks Tomas!""",Happy
+"""Hey very cool. """,Happy
+"""it belongs to faces 1.2 :)""",Happy
+"""Thanks for doing that Uma.""",Happy
+"""Thanks, Dhruba!""",Happy
+"""Looks good.""",Happy
+"""I believe in relativity :-)""",Happy
+"""Cool - good information to have.  Thanks Lance!""",Happy
+"""Great! Awesome work, Nick, and thanks for the clarification, Bill. """,Happy
+"""Thanks, Sanjay!""",Happy
+"""Enjoy!""",Happy
+"""This looks safe also""",Happy
+"""Wow, thanks Raghu, that's awesome and will save me a ton of time. """,Happy
+"""cool stuff! a good candidate to put on myfaces-commons-utils, so the user can just add the resource handler on its webapp faces-config.""",Happy
+"""You're results are awesome Paul. Great work :) Looking forward to see your new JSON parser in trunk whenever you think is ready.""",Happy
+"""Thanks for reporting, solved!""",Happy
+"""Thanks to Edward and Brock for the reviews.""",Happy
+"""Pretty sure this was fixed by the time we released JRuby 1.6.""",Happy
+"""Thanks Galder:)""",Happy
+"""Awesome!""",Happy
+"""bq. OK w/ the latest patch all tests pass for me! Great  Awesome! :)""",Happy
+"""Thanks, Ashish!""",Happy
+"""Waaaaay cool! I especially like the ""upload file"" option.""",Happy
+"""Awesome, you rock, Drew!""",Happy
+"""It's OK.""",Happy
+"""Awesome - great stuff Maria.  Thanks!""",Happy

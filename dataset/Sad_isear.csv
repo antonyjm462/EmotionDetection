@@ -1,0 +1,231 @@
+Text,Emotion
+"Ok, I find the reason: device won't answer to simple user (and doesn't matter what permissions did you ask in program manifest). You can directly speak to device only if you are root (or from kernel mode). That means you cannot use devices directly from general applications. Very sad :(",Sad
+It is really painfull to get all code form TFS whenever you make a build using NANT. Is there any settings in ccnet.config which will only take the files which are changed form last time which can speed up the process.,Sad
+http://stackoverflow.com/a/4105631/1104483. Sad :(,Sad
+It's very painful to add multiple tickets to Trac or to have it as your own todo list. That causes people to use their own task management tools so tasks are then spread all around. Is there any plugin or macro that would quicken the process of adding a ticket?,Sad
+Basically you've got to call the method with reflection: Get the generic method template with Call passing in your 4 type parameters Invoke the method passing in the regular arguments It's a pain :(,Sad
+"@Almo @trojanfoe yes it was a horrible syntax error, sorry guy's!",Sad
+That's terrible :(,Sad
+"I'm not for sure how the ControlCollection of ASP.Net works, so maybe someone can shed some light on this for me. I recently discovered the magic that is extension methods and Linq. Well, I was very sad to find that this isn't valid syntax However from what I can tell, does implement the interface which provides such methods, so what gives? Why doesn't that just work? I have found a decent work around for this issue at least:",Sad
+"JLists don't offer a method for this, and that's very sad. Do you know how to do it?",Sad
+"@gap: No, I never wrote the helper class, I'm afraid.",Sad
+"I usually don't post meta comments, but 29k views and 7 upvotes? That is sad",Sad
+that _is_ sad news,Sad
+"I'm currently having exactly the same issue with Monotouch and that's why I found your question. I get the very same exception as you do. This makes me assume that I'm not facing a Monotouch issue but a basic (mis)behavior of XIBs/Cocoatouch. So the answer is: no, it is not possible. Very sad though. RenÃ©",Sad
+List comprehension performance link is dead :(,Sad
+Ahw... that's plain sad :(,Sad
+Official guide says: Tomcat deployment is trivial and requires copying the WAR file into the TOMCAT_HOME/webapps folder and restarting the container. But this is really painful :-( Does there any way to deploy app without restarting Tomcat ?,Sad
+"Hate to say it, but I don't think there is a way to alleviate this. I do think that it depends on the client system, though, so a faster javascript engine or machine may make it slightly more accurate.",Sad
+unfortunatly most browsers think window.close() is malicious and don't allow it to close itself without at least prompting the user :(,Sad
+This is sad. 2010 and VCPROJ files have to be maintained by hand so the revision control system doesn't whack it out.,Sad
+"Afraid not! If I do so then it explicitly looks for quotes within the data, which it doesn't have.",Sad
+That's depressing :/ Are you sure I can't get a collection of all controls on the page with a particular class and give them a single data source?,Sad
+As mentioned on StackOverflow podcast 30 - JanRain RPX has beaten me. Sad face for me.,Sad
+"First of all I can't see object locking, unused lockObject variable makes me sad. IEnumerable is not special. Each thread will have it's own copy of reference to some instance of sektioner object. You can't affect other threads that way. What would happen with old version of data pointed by sektioner field largely depends on calling party.",Sad
+that made me cry :'(,Sad
+"I have a serious problem which I can't a solution to. I need to authenticate a token in order to let the user login into my app, the problem is that even though I'm using the AsyncTask, and probably because of it, I can't authenticate it in time. Other problem that sometimes accurs is that I get the NetworkOnMainThreadException error... I'm really hopeless. Here's the flow - And here's my code - That's is the URLDownloader class -",Sad
+That's very sad and the issue was opened a year ago...,Sad
+sad... very sad.,Sad
+"I'm trying to bake my controllers but I keep getting the following error: It's making me frightfully sad, has anyone ever come across this?",Sad
+I think I've been using these terms interchangably / wrongly!,Sad
+I have implemented this in my Visual Studio addon Visual Installer as IntelliSense Member Completion.If you type variable followed by a period (.) a list of all possible members of this class is presented in a list from which you can choose:Second option is to move cursor over any class to view it's members:See details here: http://www.unsigned-softworks.sk/visual-installer/features.html#member-completionP.S. sorry for this self promo - TLama is very angry for promoting 3rd party software in Inno questions but there is no support for this in official Inno Setup editor and many people ask for this.,Sad
+Can't find any manual about changing width of taglist element size. Taglist element is wider than icons I had set. It looks really awful =( Screenshot:,Sad
+":~) Very embarrassing!!! When I debugged and printed the receiving addresses, I realized that I was checking the wrong email account! Sorry to have taken your time.",Sad
+"I'm sorry, was hasty and overlooked the angular JS part. I cant help you with that, good luck finding a solution !",Sad
+"Since I am completely useless at regex and this has been bugging me for the past half an hour, I think I'll post this up here as it's probably quite simple. In PHP I need to extract what's between the tags example:",Sad
+"I'm afraid not! AFAIK, the English resources aren't available at all in other international editions of the OS.",Sad
+@Bukes: That's disgraceful :(,Sad
+Page/MasterPage/Control lifecycle makes me cry :(,Sad
+"Now I think it is not possible in c++ (without explicitly qualifying the namespace), it's so sad :(",Sad
+Unless you are able to demonstrate the problem with displayed code then I'm afraid there's not much more I can do to help you out.,Sad
+sad faces! :( not workoing.,Sad
+"@PabloB. sir, this is sad :(",Sad
+"Ah man, my changes did not save. JSFiddle was lagging terribly for me so I'm not suprised -- sorry!",Sad
+"I'm sorry, but I didn't had an eye on this thread. I'm afraid the topic isn't hot anymore!?",Sad
+"Yup many hours later I found that a single panel that was wrapped around the section had a EnableViewState=""false"" added to it. Sad part is that I know I didn't add that because I didn't even know what it was until craig here mentioned it. Visual Studio must have added it sometime.",Sad
+"Would one be violating the the terms of agreement with Google App Engine if one were to use Amazon's S3 service with Google App Engine? I do know there is restrictions on what you can and can't do but I was not sure of this. Having these two combined features, one could provide one heck of a system at a relatively low cost compared to hosting this with a hosting company. Has anyone done this already or have heard of an application that combines the two technologies?",Sad
+@BoristheSpider :( :( That is really sad. :(,Sad
+I should add that the element thing throws an error when it can't find something. Do you normally use try/except for all find_element commands? * oh so very sad * :(,Sad
+"A unit test should do the same thing every time that it runs, otherwise you may run into a situation where the unit test only fails occasionally, and that could be a real pain to debug. Try seeding your pseudo-randomizer with the same seed every time (in the test, that is--not in production code). That way your test will generate the same set of inputs every time. If you can't control the seed and there is no way to prevent the function you are testing from being randomized, then I guess you are stuck with an unpredictable unit test. :(",Sad
+"When specified as above, Spring distinguishes constructor arguments by order of appearance. The notation would only switch between setting the attributes by constructor to setting them by accessor. I'm afraid, this will not change anything.",Sad
+I know that IList is the interface and List is the concrete type but I still don't know when to use each one. What I'm doing now is if I don't need the Sort or FindAll methods I use the interface. Am I right? Is there a better way to decide when to use the interface or the concrete type?,Sad
+"Unfortunately some projects require hundreds of images for CSS, general site images and flash then there can be hundreds of PDF's, Docs which are needed for the site. Including them can mean it takes ages to load a project and sync it. If your unlucky enough to use VSS then this is far more painful.",Sad
+"I ran into the same thing a few years ago with a PI system, so I do feel your pain!",Sad
+"Is packed-decimal part of the EBCDIC format, or is this just a file which happens to use both? I'm not familiar with that format, I'm afraid :(",Sad
+"I'm afraid not, I ended up just removing some of the deeper folders to work around the issue - not ideal!",Sad
+"Since you're testing legacy code I'm assuming you can't refactor said code to have less dependencies (e.g. by using the ) That leaves you with little options I'm afraid. Every header that was included for a type or function will need a mock object for that type or function for everything to compile, there's little you can do...",Sad
+"That's just a 16 character requirement with an optional 2 character afterwards: The parentheses may not be required - I'm not enough of a regex guru to know offhand, I'm afraid. If anyone wants to edit it, do feel free...",Sad
+"I store ranges in MySQL DB, but a lot of queries to MySQL for getting provider name - it's terrible :(",Sad
+"Why is powerbuilder community so small? If I have asked anything about JQuery/.NET/PHP, there would have been at least 2-3 answers by now :-(",Sad
+That's what I thought...but I'm terrible with C. Absolutely terrible.,Sad
+"I installed Delphi 2009 Update 4 yesterday (very painful process ) Now, How can I make sure if it is properly updated? What is the build number shown in the IDE about box?",Sad
+I just tried installing those missing plugins ... what a pain!,Sad
+I swear - I don't put pseudo code I get told off for having bad variable names and things that don't match... I put pseudocode and I still get grief!,Sad
+"@sambo99: I'm really not sure what you mean, I'm afraid.",Sad
+"I have a controller which has a few actions, which are triggered by hitting various buttons on the page. I would like to have a default action, but am unsure how to annotate the method. Here is an example: How can I annotate a method which will act on a POST with any submit button pressed with no key selected? I have tried: I'd really hate it if I had to set required = false on each of the methods which take RequestParams and then conditionally check to see if one comes in or not... Is there a way to annotate this to work properly?",Sad
+well.. taht's... sad =(,Sad
+"I'm not for sure how the ControlCollection of ASP.Net works, so maybe someone can shed some light on this for me. I recently discovered the magic that is extension methods and Linq. Well, I was very sad to find that this isn't valid syntax However from what I can tell, does implement the interface which provides such methods, so what gives? Why doesn't that just work? I have found a decent work around for this issue at least:",Sad
+"Still no go, I am afraid :/ This does not remove 'www' from the url.",Sad
+thatÂ´s really sad :(,Sad
+Kernel Mustard link is now dead :(,Sad
+"Is it possible (or desirable?!) to set up to behave more like ? For example, instead of writing why can't I just write Similarly, instead of why not just",Sad
+This makes me really sad.,Sad
+"OK, then, no solution that going DB mysql... so sad ! :-( i will close the question !",Sad
+"Pity you haven't said what you are monitoring for. You should decide whether 15 seconds is ok or not. Feel free to drop it way lower if you wish (and have a fast HDD) No worries unless you are running a soft real-time system Have a look at tools suggested in other answers. I'll add another sugestion: ""iotop"", for answering a ""who is thrashing the HDD"" questions.",Sad
+Link is now dead :(,Sad
+Um... Nothing... Sad that we all missed the simple solution.,Sad
+"That didn't work I'm afraid :( Daniel, main.cs: http://pastebin.com/CCdchuQs",Sad
+Have you tried removing 'preload' attribute? (Afraid I can't be much help otherwise!),Sad
+"Sorry, I wasn't clear. You would need to add that as a BOOL property on your class. It originally sounded as if you had a single place that handled the notifications and displayed the errors.",Sad
+This probably sounds really stupid but I have noo idea how to implement jquery's rounded corners (). My javascript-fu is complete fail and I can't seem to get it to work on my page. Can anyone show me a simple example of the HTML and JavaScript you would use to get them to show? Apologies for my idiocy.,Sad
+The solution is crying out for the MSMQ solution but unfortunately the posting service is not on the domain. Is there anyway to post to the public queue that is on the domain from the machine in the DMZ? I could use a webservice to post but this is a extra component to maintain. The database table is the alternative solution but again it is not the ideal.,Sad
+"Can somebody point me to a resource that explains how to go about having 2+ IIS web server clustered (or Webfarm not sure what its called) ? All I need is something basic, an overview how and where to start. Can't seem to find anything...",Sad
+that what i was afraid of ! cause my knowledge about ajax is zero :(,Sad
+"Eruby is an external executable, while erb is a library within Ruby. You would use the former if you wanted independent processing of your template files (e.g. quick-and-dirty PHP replacement), and the latter if you needed to process them within the context of some other Ruby script. It is more common to use ERB simply because it is more flexible, but I'll admit that I have been guilty of dabbling in eruby to execute files for quick little utility websites.",Sad
+Shameeeee on me!!!,Sad
+"I'm afraid I can't entirely follow your question - do you want to have a sign up form for membership or email notifications shown as an article? If so, then the easiest way is to install 'm2c' - the 'module to component' component. Then you can put any module (ie the sign up box) in the centre content area. The m2c component can be found here:",Sad
+There are major oversights in the CSS spec related to basic page layout. Sad. It is about as well thought out as HTML.,Sad
+I am have used the remove data method to remove validation from the page. This works but throws an error in the console window and crashes with IE8 (I'm being forced to develop to this browser...sad I know!). Does anyone know how I can stop this error? Here is my code to remove the validator: Here is the error message from the console:,Sad
+"@Aggieboy that's really sad, and I have to hand-code stuff .",Sad
+"The current solution i implemented is awful! I use a for inserting records from an ADO.NET data-table into an SQL table. I would like to insert at once the data-table into the SQL table, without iterating... Is that possible, or am i asking too much?",Sad
+"I don't know any opensource solutions, and the guys writing this stuff for money can't and won't tell you. Guess you're out of luck :]",Sad
+"I am sorry to say this but most Silverlight grids do not support cell merging. At least not out of the box. I have resorted to using Component One studio for Silverlight in order to achieve this, and even then it hasn't been exactly a walk in the park. Consider C1 Data Grid control. Here is a sample on with sample code and a small write up. The down side of such solutions is that C1's controls are extremely expensive :( I wish Micro$oft came up with some enhancements in SL5 that would accommodate for such issues.",Sad
+@btevfik..thats very sad:(,Sad
+Dude I feel your pain. I used my blogger address but since moved my blog. I don't want to continue using my blogger address as my id now there is a google option.,Sad
+"Here is my PHP code.. ..I'm extremely crappy with my JavaScript code, could someone help me convert this? I basically want to convert a variable such as ""marine-heavy"" to ""Marine (heavy)"".",Sad
+"Sorry, I misread your question and thought that the dragged row was the one that was shrinking. It's hard to say what is going on without seeing all your code. Is it possible that you don't have the columns styled to a fixed size and they are shrinking because you are dragging the widest content out of them? If you could set up a small duplication at [jsfiddle](http://jsfiddle.net) it would be helpful.",Sad
+I've tried several other IDEs (the last one was eclipse) but always come crying back. The thing I end up missing most is homesite's 'tag insight' for all the html tags.,Sad
+That's too sad :(,Sad
+no answer yet.... sad =(,Sad
+"I'm not sure I follow what you mean by ""service layer""... ""service"" is such an abused generic term these days :-(",Sad
+"Lambdas automatically 'suck' in local variables, I'm afraid that's simply how they work by definition.",Sad
+@Colin Pickard: That's really sad :'( :'( :'(,Sad
+Just .net 4 I'm afraid :/,Sad
+"Not without logging or tracing, I'm afraid",Sad
+You can set the document.domain but if I remember correctly a few browsers (Opera) will not even allow this. I am afraid your answer is to create some sort of proxy on the subdomain that you can talk through,Sad
+"@MaximilianBöther I'm sorry to hear that... Maybe you can get in touch with the developers of BaronReplays and ask them to help you out? If not, I'm afraid I cannot help you much more! Regards, Rodit",Sad
+"ouch. I have a large table, and the row by row insert is very painful",Sad
+"I've updated the fiddle. I had to use classes to get it to work, so its not 100% perfect imo.",Sad
+"I wish i knew, I am on 3+ projects and have to do 3+ SCRUMS a day. :cry:",Sad
+"fails horribly for, e.g., `domain = 'http://www.google.co.uk/'`",Sad
+"Ooh, I feel your pain. I've added some more to my answer. The operator precedence is in the VB6 help",Sad
+(lack of line breaks in comments is saddening!),Sad
+Right ... if only I was using SQL server.. Informix unfortunately :( :( :(,Sad
+I'm afraid I gave up and switched to django instead!,Sad
+"I'm completely horrible with javascript and jquery, How do I get the content from a PHP file?",Sad
+I'm afraid you can't!! Weka is not covering that functionality.,Sad
+"If it's forms auth then yes, that's weird. I'm afraid I don't have any idea!",Sad
+"might be an answer, but I'm afraid I can't speak from experience.",Sad
+"Sorry, I was just trying to help and obviously misread the question. No need to get angry!",Sad
+"My guess is that you would have to extend the classes for DataTip, to check for NULL hitData objects, to kill/stop the drawing of the display. I do not think there is a way to do that normally in FLEX. You would have to customize and override the hitData class unfortunately. What a pain!!",Sad
+"This is a stupidity of windows find utility, +1 for feeling my pain.",Sad
+that is very very sad,Sad
+"I actually tend to prefer PascalCase here - but out of habit, I'm guilty of UPPER_CASE...",Sad
+"I have no answer, but I'll 2nd the sentiment about the documentation quality for OpenSSL... I'm working with it now also (just starting), and it's horrible trying to find examples or documents for anything beyond simple operations... I feel your pain.",Sad
+"I'm a novice programmer who is attempting assembly for the first time. Sorry in advance if this is an incredibly lame question. I have a character stored in the EAX register, but I need to move it to my DL register. When I try: mov dl, eax I get an error C2443: operand size conflict. I know that the eax register is 32 bit while the dl is 8 bit... am I on to something?? How do I go about solving this.",Sad
+"You could try this one (not optimal, I am afraid):",Sad
+"It would have to be a WinForm dialog, I'm afraid :-(",Sad
+"Yes, there are, I'm afraid",Sad
+I'm very sad now :(,Sad
+"SORRY! had some syntax issue, i fixed it and it works now...what should i do with the question?",Sad
+although I feel incredibly stupid/angry or both,Sad
+Its really depressing. Ended up with downloading the whole bundle again.,Sad
+"A (it doesn't have to be a class; structs and interfaces can be partial too) is basically a single type which has its code spread across multiple files. The main use for this is to allow a code generator (e.g. a Visual Studio designer) to ""own"" one file, while hand-written code is put in another. I've no idea whether Python/Perl have the same capabilities, I'm afraid.",Sad
+This is officially the first time I have seen it referred to as Red Gate's Reflector as opposed to Lutz Roeders Reflector. Sort of sad in a way,Sad
+:'( :'( :'( :'( :'( :'(,Sad
+"I have two loops running in my code, I want to use an element from an array as the key in a second array, but am unsure how to do this with Smarty. """" contains an integer (pulled from the db) I want to use that value as the key in a second loop, which runs fine if I harcode in the integer: Pseudo code for the sort of thing I've been trying is: But of course, this doesn't work! Can anybody help?",Sad
+"i have an assignment at my company to build a custom cms, for the foundation i ve chosen latest laravel(version 4, i believe). Now, the requirements in laravel docs() say minimal version of php on server required is 5.3.7, our servers have php 5.3.23. I am right now on a weekend, so i cant check my code on the server( been developing the basics on localhost with xampp which has latest php). Has anyone tried laravel 4 on pre-5.3.7 php?? i m very worried all of last week's work is going to the bin... :(",Sad
+"I'm very sorry about my horrible English! only for this example I use radio button, I'm considering using textbox too",Sad
+"Finally found something, here: No reference to it from the Oracle pages, but found a direct link to a page on some forum post. Really sad how hard it was to find.",Sad
+"After looking at the answers below, I am very sad that this is an example of backwards progress for SSRS.",Sad
+"I am completely hopeless with regular expressions... I have a Velocimacro named , and I have a JS function named . Now I want to find all the places the JS function is called. So I need to search for ""addButton"", where ""addButton"" doesn't start with the hash key. Any ideas?",Sad
+"sorry, you need to move that serializer before this one...i'll update the answer no problem, Django REST Framework is really great, have fun with it!",Sad
+This code is scary :(,Sad
+this link is dead :(,Sad
+"@AliceChen sad but sometimes the dropbox servers go down, this may also cause this!",Sad
+"I didn't find a solution. Thus, I delomboked the source code and done it with plain vanilla Java... sad :-(",Sad
+put your path and your shadow in a set. apply your animation to the set and it'll affect both. a really terrible example where I move both at once.,Sad
+read I'm not sure if it will help you,Sad
+"The 1024 byte limit is part of the syslog (section 4.1), as is UDP transport which doesn't have guaranteed delivery (in case you worry about log lines lost in the ether). I think syslog-ng can solve both these issues, but I'm not a syslog expert.",Sad
+"Not sure this answers the question accurately, what does everyone else think?",Sad
+"Sorry to be a pain, but I have 2 questions. 1) But where is the log? I assumed that it would be in $ftpreturn. 2) How do I check the bytes sent?",Sad
+"indeed, I HATE IT! But sadly no, i could not find an alternative... Sorry :(",Sad
+Restoring splitter distances has given me a lot of grief too. I have found that restoring them from my user settings in the form (or user control) Load event gave much better results than using the constructor. Trying to do it in the constructor gave me all sorts of weird behaviour.,Sad
+"Very sad, no way...(",Sad
+It is very sad :(,Sad
+"When you call ""su"" you're creating a new process that runs that command, so after running exec(""su"") you have a new process with SU rights. You can't give your already running application SU rights I'm afraid! I'm not sure how other applications do this, but you can run ""su -l ls /data"" and then read from the outputstream of the process.",Sad
+Some more depressing news here: http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_14213,Sad
+"Sorry -- Current output is raw HTML as far as I know. I'll double check that, though. Warren -- I suppose that is what I'll have to do. Looks quite scary, though!",Sad
+"I'm in the UK, a long way from Beijing i'm afraid!",Sad
+"Ohh, well this is sad! I found the error and it unfortunately just was a typographical error...",Sad
+"I understand its not a desirable circumstance, however if I NEEDED to have some kind of HTML within JSON tags, e.g.: is this possible to do in Python without requiring to to be escaped beforehand? It will be a string initially so I was thinking about writing a regular expression to attempt to match and escape these prior to processing, but I just want to make sure there isn't an easier way.",Sad
+"I'm afraid I can't really accept an answer here as it turns out that it can't really be done, without using a workaround, which I didn't want to do. Sorry!",Sad
+"Its really sad :( to hear ""We cann't fix Footer or Header view"".. it always get scroll with rows.",Sad
+You're looking for an equivalent of and I'm afraid it doesn't exist explicitely in the STL. Go for Sebastien's answer if it is correct for your STL implementation.,Sad
+Yes ... all this works ... but if the user presses their refresh button on their browser it will add another record.,Sad
+I'm not sure that the given approach will work with hosts using NPT/EPT.,Sad
+"I'm apologize for saying this, but the code you've posted is simply awful and needs desperate refactoring. Create a class to represent 7 properties instead of 7 parallel arraylists, and use String.split to parse a comma-seperated list.",Sad
+"I just wrote this function, so there are no versions to speak of... I'm afraid I'm not very faimiliar with mapping!",Sad
+my experience with SOAP is not good ): and documentation(at least in D2010) is extremely poor!,Sad
+"This makes me very, very sad.",Sad
+If I delete this question will it increase my reputation? 5 down votes it really sad.,Sad
+@Pekka - what's the emoticon for being terribly embarrassed!,Sad
+* oh so very sad * :(,Sad
+You need to or if you target Windows Phone 8.1.And port you code to DirectX 11 the call is . It will be painful! You will still use this feature level.,Sad
+"I don't have whois installed on my server (apparently it's in the works but no real news on it). I was wondering if anybody knew a way to emulate the functionality of it though. I figured I'd be posting some data to a url but I don't know what, or where. Basically I'm at a complete loss, and would appreciate any help or even something that I could look into.",Sad
+That's really sad...,Sad
+@jozefg I'm really afraid of what you've told :(,Sad
+"I am currently a college student and I don't feel that any of my classes have touched on the Software Development Life Cycle (SDLC) nearly enough. I've been interning a company for a few years and I've been learning about SDLC from the internship, but I wanted to poll the crowd so I can branch out from that. What SLDC resources (books, websites, magazines, newsletters, etc.) do you use?",Sad
+"Technically, XHTML can not be poorly formed. A stipulation of XHTML is that it is well formed and valid. Sorry for the lame comment, invalid XHTML angers me.",Sad
+"I was wondering if there was somewhere I could get some starter kit / theme sample for ASP.NET. I am not a designer, but I need to build a prototype for a project, and if I do it myself it'll certainly be awful Do you know where I could find that (ASP.NET specific)?",Sad
+Beat Detection looks incredibly complicated :(,Sad
+"Oh, bummer, I think i got i right now?",Sad
+This should do it (it's not quite a one-liner I'm afraid):,Sad
+"Apparently, the Gmail app do not let me download the attachment... this is really unfortunate :( Gmail works with !!!",Sad
+"Im getting really depressed over this so I could really use some assistance. I created a new project in visual studio. I first created a new header file, called ""MyString,h"" and placed it in the header folder. It contains a class called String. you can see the code I used for it at the end of this I also now have a MyStringTest.cpp file in the source files folder. It has the following code in it. Expected: Compiles and runs a console program which will output ""llo"" Reality: Error: 'Identifier 'String' is undefined Here is some of my code in the header file...i really cant fit all of it. ....",Sad
+a very sad face :(,Sad
+"@Michael: dude, I feel your pain (since my HOWTO search led me here).",Sad
+"I have developed a cumulative sum function as defined below in the Haskell library Repa. However, I have run into an issue when combining this function with the transpose operation. All 3 of the following operations take well under a second: However, if I write: performance degrades horrendously. While each individual operation in isolation takes well under a second on a 1920x1080 image, when combined they now take 30+ seconds... Any ideas on what could be causing this? My gut tells me it has something to do with delayed arrays, not forcing at the right time, etc... But I do not have enough experience to track this down quite yet.",Sad
+I'm afraid I don't know of any other option than work!,Sad
+:( :( :( :( :( :(,Sad
+Graphael doesn't have an unhover event for some odd reason. Found this chunk of code in pie.js that creates hover events: The unhover event is Raphael JS is the following code snippet. Using these two there must be a way to create an unhover for a Grapael pie chart. Any help here will be very very greatly appreciated as I'm stumped!,Sad
+The really sad thing is I could do this in about 5 lines of Ada code...,Sad
+"Unfortunately, no. That's my major pain when merging vcproj file changes.",Sad
+That is really sad :(,Sad
+I afraid here the relation between C1 and C2 in a single row could not be maintained !!!,Sad
+I just installed AndroidStudio in my System I am trying to create my Very First Project . I set up JAVA_HOME and Android SDK path that has been used previuosly by eclipse in Android Studio Android SDK has the below versions for Tools and Platform Android SDK Tools - 22.6.2 SDK Platform - 19 As soon as started Android studio downloaded the Gradle-1.12 in the below path C:\Users\DELL.gradle\wrapper\dists\gradle-1.12-all after that it shows the build screen as below. This screen is shown for ever . It is not moving further. can anyone help me in this. I am sad!,Sad
+It's really sad when you can't trust your coworkers...,Sad
+@Colin Pickard: That's really sad :'( :'( :'(,Sad
+@Java1 I had totally forgotten about the moderators _hating_ the _link-only-answers_.!! :-(,Sad
+yeaa im just not sure how i would be able to store a user input string into the array. I've looked around online and tried out some of their code. So im not sure. I really hate mips. :(,Sad
+That's very sad :(,Sad
+It would be sad:(,Sad
+Yes. You make me sad :(,Sad
+no answer yet.... sad =(,Sad
+"I need to develop a messenger-like text box, where certain tokens are being replaced with UI controls. Just for example, if the user types :-) it should be replaced with a smiley image. I have previous experience with WPF's RichTextBox and i understand the concept of TextPointer and TextContent. I just don't know how to replace a TextRange with a UI control... Would extremely appreciate your help :-) ! Gili",Sad
+I am really desperate :(,Sad
+You're right edited. Sad fact! :(,Sad
+"I don't want this to be the answer, (sob)!",Sad
+It is really sad that answers need to be more than three characters,Sad
+"I have spent days trying to find any information or working samples on how I can get google data such as emails in my gmail inbox, list of my contacts, my calendar events etc... None whatsoever :( There are broken pieces of some code fragments here and there, 90% say it's been deprecated, is the a one single page on the internet that gives me a working example how to do that from javascript. Many pages about oAuth, but I have absolutely no idea how to use it , I have spent days reading broken pieces here and there, but I was unable to understand what that it and how I can use it PRACTICALLY. Very sad, and I am very tired to waste so much time on things that dont work and are not documented in human language, possible to understand. Why do they have to overcomplicate thing so much and spread broken pieces of information everywhere?",Sad
+Does it make sense to start learning JavaFx if I do not have any background in UI programming? Is it more advisable to learn Swing first and then move on to JavaFx ? I tried the on JavaFx website in Netbeans and the code looked extremely complicated to me. I am wondering if JavaFx is too advanced for a beginnner GUI developer.,Sad
+"that's sad:-( I don't need it for debugging, I need it for other purpose.",Sad
+Hasn't made a difference I'm afraid :(,Sad
+"Sad that you had to preface with ""Reasons for doing this aside"" in order to prevent a flame war or such...",Sad
+Ah - make me look lazy! (guilty),Sad
+"@David, apologies - but at least one of them made sense (I hope!) :-)",Sad
+"Oh. That's really sad. So It would be only plane menu options with white background., is it?",Sad
+"I just got through this exact problem. What a pain! If you are running a 32-bit JVM on a 64-bit Windows, make sure that you set the execution policy for the 32-bit Powershell interface. I found my 32 bit executable here: The 32- and 64-bit Powershell environments are completely distinct so setting the execution policy in one has no effect on the other.",Sad
+Don't have access to any other versions here I'm afraid :(,Sad
+"This is a method in Java, that(when k == 0) in int[] arr has one of k-combination int[] intems. In variable iloczyn is calculated product of elements in this combination. In tmp is calculated sum of all such products. Unfortunately, System.out.println(tmp) shows, that when function ends, tmp equals 0. This is very sad, because i need this variable for next calculations. What shoud I do?",Sad
+"isn't generic, so your code is effectively: At that point is it clearer why you need the cast? (Not that the cast will really anything at execution time, of course...) You're not calling which is what you really want to be doing, effectively. It's just another case of Java generics being a bit of a pain :(",Sad
+@afr0 I'm afraid I don't understand what you mean! That example is using an ajax call when creating a ProductViewModel object to get the data.,Sad
+any ideas at all would be hugely appreciated - can't find anything about this anywhere! :),Sad
+"yeah, your pain is mine! This method described by ctrahey at least gives you some clue.",Sad
+I'd forgotten to put the code tags around it and everything was garbled and the formatting was terrible for about the first 90 seconds of life. Apologize to those who clicked quickly and saw the garbage.,Sad
+"I am sorry for posting so many questions, but getting this to work has been incredibly painful, even tho Testflight makes it much easier I figure this has got to do with my Apple Push Notifications. I am using my distribution profile across all my settings. My app has been configured to both development and production. What could the causes of this error be? As a side note, i have been working on this for the entire day, and i get stuck at one thing after the other, esp involving static libraries and xcode4. Am I really bad at this, or does Apple really make it so hard?",Sad
+"Perhaps I am missing something, but I am just learning javascript. My understanding of Single Origin Policy is that Google Analytics should not be able to send data back to Google. How is it able to transmit send data to Google without violating the policy?",Sad
+Im afraid is not!,Sad
+Most DNS servers don't obey RFC1912 to be honest. Its a sad thing about ISPs.,Sad
+"very sad, for erlang programmers :(",Sad
+"I am using Internet Explorer 11. Something annoying keeps happening when I add code to my site through the CMS form that I use. Take this line: Let's say I want to copy just this in IE, through the form on the page: When I go to copy just that section, it actually copies this: It is VERY annoying! It doesn't happen on Chrome or Firefox. For reasons with the CMS I have to use Internet Explorer. Is there a setting I can change so that doesn't happen? On Windows 7 if that helps. Sorry if this doesn't 100% fit with programming, someone let me know if there is a better place for this question.",Sad
